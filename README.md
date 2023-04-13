@@ -1,6 +1,6 @@
 # itmo_paradigms
 
-This repository contains the homeworks solution of the course "Зrogramming paradigms" of the second semester of ITMO University.
+This repository contains the homeworks solution of the course "Programming paradigms" of the second semester of ITMO University.
 
 ### Java solutions
 1. [expression](java-solutions/expression): error handling in the expression parser + expression evaluation in different types using generic
