@@ -9,7 +9,7 @@ This repository contains the homeworks solution of the course "Зrogramming para
 
 ### Java Script
 1. [functional expression](javascript-solutions/functionalExpression.js): set of functions for representing and evaluating expressions with three variables
-2. [objext expression](javascript-solutions/objextExpression.js): classes for representing and evaluating expressions with three variables. parser for prefix representation of expressions and error handling during parsing of expressions
+2. [object expression](javascript-solutions/objectExpression.js): classes for representing and evaluating expressions with three variables. parser for prefix representation of expressions and error handling during parsing of expressions
 
 ### Clojure
 1. [linear algebra](clojure-solutions/linear.clj): 
