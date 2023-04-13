@@ -20,3 +20,5 @@ functions for working with linear algebra objects: scalars, vectors, matrices. e
 ### Prolog
 1. [primes](prolog-solutions/primes.pl) rules for determining whether a number is prime using the sieve of Eratosthenes
 2. [tree-map](prolog-solutions/tree-map.pl) associative array based on Cartesian search tree
+
+Detailed description of each project [here](paradigms.pdf)
